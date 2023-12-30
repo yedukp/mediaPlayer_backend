@@ -1,0 +1,103 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "caption": "Calm music",
+      "url": "https://spaexecutive.com/wp-content/uploads/2019/06/34579983_s.jpg",
+      "embedLink": "https://www.youtube.com/embed/fJur8vCXH-c"
+    },
+    {
+      "id": "3",
+      "caption": "Chillies (Official Music Video)",
+      "url": "https://i.ytimg.com/vi/WfGn1yTL8TI/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/zZWICdCVKXo"
+    },
+    {
+      "id": "6",
+      "caption": "The Night We Met",
+      "url": "https://upload.wikimedia.org/wikipedia/en/3/34/The_Night_We_Met.jpg",
+      "embedLink": "https://www.youtube.com/embed/wGF7PswOENQ"
+    },
+    {
+      "id": "7",
+      "caption": "Daylight",
+      "url": "https://i.ytimg.com/vi/MoN9ql6Yymw/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/MoN9ql6Yymw"
+    },
+    {
+      "id": "11",
+      "caption": "Never Go Back",
+      "url": "https://i.scdn.co/image/ab67616d0000b2733e5170dca1d41c6ab6824506",
+      "embedLink": "https://www.youtube.com/embed/8KXi5wPw87s"
+    }
+  ],
+  "category": [
+    {
+      "categoryName": "English Music",
+      "allVideos": [
+        {
+          "id": "6",
+          "caption": "The Night We Met",
+          "url": "https://upload.wikimedia.org/wikipedia/en/3/34/The_Night_We_Met.jpg",
+          "embedLink": "https://www.youtube.com/embed/wGF7PswOENQ"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryName": "Latest Music",
+      "allVideos": [
+        {
+          "id": "3",
+          "caption": "Chillies (Official Music Video)",
+          "url": "https://i.ytimg.com/vi/WfGn1yTL8TI/maxresdefault.jpg",
+          "embedLink": "https://www.youtube.com/embed/zZWICdCVKXo"
+        },
+        {
+          "id": "4",
+          "caption": "Skyfall",
+          "url": "https://upload.wikimedia.org/wikipedia/en/4/45/Skyfall_cover.png",
+          "embedLink": "https://www.youtube.com/embed/DeumyOzKqgI"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "categoryName": "Calm Music",
+      "allVideos": [],
+      "id": 3
+    }
+  ],
+  "history": [
+    {
+      "caption": "Never Go Back",
+      "embedLink": "https://www.youtube.com/embed/8KXi5wPw87s",
+      "timeStamp": "12/30/2023, 03:30:34 PM",
+      "id": 1
+    },
+    {
+      "caption": "Chillies (Official Music Video)",
+      "embedLink": "https://www.youtube.com/embed/zZWICdCVKXo",
+      "timeStamp": "12/30/2023, 03:30:37 PM",
+      "id": 2
+    },
+    {
+      "caption": "Never Go Back",
+      "embedLink": "https://www.youtube.com/embed/8KXi5wPw87s",
+      "timeStamp": "12/30/2023, 08:51:09 PM",
+      "id": 3
+    },
+    {
+      "caption": "Never Go Back",
+      "embedLink": "https://www.youtube.com/embed/8KXi5wPw87s",
+      "timeStamp": "12/30/2023, 09:00:20 PM",
+      "id": 4
+    },
+    {
+      "caption": "Chillies (Official Music Video)",
+      "embedLink": "https://www.youtube.com/embed/zZWICdCVKXo",
+      "timeStamp": "12/30/2023, 10:57:58 PM",
+      "id": 5
+    }
+  ]
+}
